@@ -1,0 +1,13 @@
+{
+    "name": "jqsmiin/ecommerce",
+    "require": {
+        "nikic/fast-route": "^1.3",
+        "webonyx/graphql-php": "^15.14"
+    },
+    "authors": [
+        {
+            "name": "jqsmiin",
+            "email": "jasmin.oruc23@gmail.com"
+        }
+    ]
+}
